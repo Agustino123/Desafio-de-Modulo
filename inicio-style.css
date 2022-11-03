@@ -7,7 +7,7 @@ body{
     position: absolute;
     left: 20%;
     top: 20%;
-}
+} 
 
 .titulo{
     font-size: 8em;
@@ -42,10 +42,11 @@ body{
 }
 
 img{
-    width: 33.6rem;
+    width: 45rem;
     height: auto;
     pointer-events: none !important;
 }
+
 
 
 /* Animacion */
