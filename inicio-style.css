@@ -38,7 +38,7 @@ body{
 }
 
 img{
-    width: 33.5rem;
+    width: 45rem;
     height: auto;
     pointer-events: none !important;
 }
@@ -125,7 +125,7 @@ a {
 
 /* Media Query */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1300px) {
     a{
         font-size: 80px;
     }
