@@ -9,10 +9,6 @@ body{
     top: 20%;
 } 
 
-.titulo{
-    font-size: 8em;
-}
-
 .titulo a{
     text-decoration: none;
     color: white;
@@ -42,7 +38,7 @@ body{
 }
 
 img{
-    width: 45rem;
+    width: 33.5rem;
     height: auto;
     pointer-events: none !important;
 }
@@ -125,4 +121,24 @@ a {
         -1px 1px 0 hsla(180, 100%, 50%, 1)
     ;
     }  
+}
+
+/* Media Query */
+
+@media screen and (max-width: 800px) {
+    a{
+        font-size: 80px;
+    }
+
+    .bg-photo{
+        top: 70%;
+        left: 30%;
+    }
+    
+    img{
+        width: 300px;
+        height: auto;
+    
+    }
+    
 }

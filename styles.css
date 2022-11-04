@@ -31,6 +31,8 @@ nav{
 
 nav a{
     color:white;
+    text-decoration: none;
+    
 }
 
 nav a:hover{
@@ -97,5 +99,12 @@ nav ul li:hover{
     text-align: center;
 }
 
+/* Media Query */
+@media screen and (min-width: 990px) {
+    #text{
+        display: none;
+    }
+    
+}
 
 
