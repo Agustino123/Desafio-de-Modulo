@@ -6,6 +6,8 @@
     font-family: 'Lato', sans-serif;
 }
 
+/* Titulos */
+
 h1{
     font-family: 'Roboto Condensed', sans-serif;
     color: darkmagenta;
@@ -24,6 +26,8 @@ h3{
 h5{
     color: white;
 }
+
+/* Nav */
 
 nav{
     background-color:rgba(61, 10, 61, 0.877);
@@ -48,6 +52,8 @@ nav a:hover{
 nav ul li:hover{
     background-color: black;
 }
+
+/* Info */
 
 #info p{
     font-family: 'Poor Story', cursive;
@@ -76,6 +82,8 @@ nav ul li:hover{
     margin-top: 100px;
 }
 
+/* Imagenes */
+
 .imagen{
     width: 150px;
     height: auto;
@@ -89,6 +97,7 @@ nav ul li:hover{
     box-shadow: 0 0.6rem 0.9rem rgba(0, 0, 0, 1.0);
 }
 
+/* Section Work */
 
 #bg_work{
     border-radius: 15px;
@@ -106,5 +115,6 @@ nav ul li:hover{
     }
     
 }
+
 
 

@@ -5,7 +5,7 @@ body{
 
 #contenedor{
     position: absolute;
-    left: 20%;
+    left: 10%;
     top: 20%;
 } 
 
@@ -33,12 +33,12 @@ body{
 
 .bg-photo{
     position: absolute;
-    left: 70%;
+    left: 60%;
     top: 10px;
 }
 
 img{
-    width: 45rem;
+    width: 33.5rem;
     height: auto;
     pointer-events: none !important;
 }
