@@ -109,6 +109,12 @@ nav ul li:hover{
     text-align: center;
 }
 
+/* Footer */
+
+#footer-bg{
+    background-color: black;
+}
+
 /* Media Query */
 @media screen and (min-width: 990px) {
     #text{
