@@ -109,6 +109,10 @@ nav ul li:hover{
     text-align: center;
 }
 
+.carousel-inner img{
+    height: 42rem;
+}
+
 /* Footer */
 
 #footer-bg{
